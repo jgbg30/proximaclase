@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/psinsontpjose/static/css/main.d93f70a9.chunk.css",
+    "main.js": "/psinsontpjose/static/js/main.1fd16643.chunk.js",
+    "main.js.map": "/psinsontpjose/static/js/main.1fd16643.chunk.js.map",
+    "runtime-main.js": "/psinsontpjose/static/js/runtime-main.f5d4eea0.js",
+    "runtime-main.js.map": "/psinsontpjose/static/js/runtime-main.f5d4eea0.js.map",
+    "static/css/2.af34670d.chunk.css": "/psinsontpjose/static/css/2.af34670d.chunk.css",
+    "static/js/2.af9ca3a3.chunk.js": "/psinsontpjose/static/js/2.af9ca3a3.chunk.js",
+    "static/js/2.af9ca3a3.chunk.js.map": "/psinsontpjose/static/js/2.af9ca3a3.chunk.js.map",
+    "index.html": "/psinsontpjose/index.html",
+    "static/css/2.af34670d.chunk.css.map": "/psinsontpjose/static/css/2.af34670d.chunk.css.map",
+    "static/css/main.d93f70a9.chunk.css.map": "/psinsontpjose/static/css/main.d93f70a9.chunk.css.map",
+    "static/js/2.af9ca3a3.chunk.js.LICENSE.txt": "/psinsontpjose/static/js/2.af9ca3a3.chunk.js.LICENSE.txt",
+    "static/media/carrousel-1.9b34cf9c.jpg": "/psinsontpjose/static/media/carrousel-1.9b34cf9c.jpg",
+    "static/media/carrousel-2.fd912352.jpg": "/psinsontpjose/static/media/carrousel-2.fd912352.jpg",
+    "static/media/carrousel-3.424560c4.jpg": "/psinsontpjose/static/media/carrousel-3.424560c4.jpg",
+    "static/media/meme-2.38cfda4b.jpg": "/psinsontpjose/static/media/meme-2.38cfda4b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5d4eea0.js",
+    "static/css/2.af34670d.chunk.css",
+    "static/js/2.af9ca3a3.chunk.js",
+    "static/css/main.d93f70a9.chunk.css",
+    "static/js/main.1fd16643.chunk.js"
+  ]
+}
